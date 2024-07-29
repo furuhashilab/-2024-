@@ -5,6 +5,9 @@
  * [動画ファイル共有フォルダ](https://drive.google.com/drive/u/1/folders/1buICQUhZ9gaO5A8o_WeatAdo-0SCm5r-)
 
 担当分け
+
 ・デザイン部：撮影
+
 ・ドローン部：構成
+
 ・VF部：編集
