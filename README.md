@@ -5,3 +5,4 @@
  * [動画ファイル共有フォルダ](https://drive.google.com/drive/u/1/folders/1buICQUhZ9gaO5A8o_WeatAdo-0SCm5r-)
 
 ## 2024年度版古橋研究室紹介動画
+ * [完成版](https://drive.google.com/file/d/1M-0nq-eJcNDMmq8tLS2YA0RcyUGFVq-3/view?usp=sharing)
