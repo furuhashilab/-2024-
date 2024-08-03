@@ -6,7 +6,7 @@
 
 ## 2024年度版古橋研究室紹介動画
  * [完成版](https://drive.google.com/file/d/1PKZFosyw0knFacLTE4YJOe4jNSM9Tvwk/view?usp=sharing)
-### 動画BGM license
+ * [動画BGM license](https://github.com/furuhashilab/furuhashilab_movie_2024/blob/main/BGM%20LICENSES%20YouTube%20movie.docx)
 
 
 ## 説明
