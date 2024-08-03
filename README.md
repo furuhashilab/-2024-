@@ -6,8 +6,7 @@
 
 ## 2024年度版古橋研究室紹介動画
  * [完成版](https://drive.google.com/file/d/1PKZFosyw0knFacLTE4YJOe4jNSM9Tvwk/view?usp=sharing)
-
-
+### 動画BGM license
 
 ## 説明
 この動画は、古橋研究室の活動内容をわかりやすく伝えることを目標に制作を進めてきました。特に、動画を通して古橋研らしさとは何か？を楽しく面白く伝えられるように細部までこだわって試行錯誤しています！
